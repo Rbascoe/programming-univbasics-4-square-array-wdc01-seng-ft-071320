@@ -1,4 +1,4 @@
-  array = [1,2,3]
+  array = [9,10,16,25]
   new_array = []
   array.length.times do |index|
   new_array.push(array[index] ** 2)
